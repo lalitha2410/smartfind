@@ -68,6 +68,13 @@ python -m http.server 3000
 
 Then go to `http://localhost:3000`
 
+## Screenshots
+<img width="2878" height="1542" alt="image" src="https://github.com/user-attachments/assets/5100209a-206d-493c-841c-1b05d7654201" />
+<img width="2850" height="1542" alt="image" src="https://github.com/user-attachments/assets/1e5142a6-a1b7-4179-aaaf-baebed09841c" />
+<img width="2849" height="1543" alt="image" src="https://github.com/user-attachments/assets/af591794-6790-4b3a-9435-9b7310936689" />
+
+
+
 ## Sample Queries
 
 - "noise canceling headphones under 20000"
